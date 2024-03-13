@@ -1,2 +1,3 @@
 # Aritradecode.github.io
 Website
+This is a landing page of Netflix designed by HTML & CSS . This website is totally responsive...
