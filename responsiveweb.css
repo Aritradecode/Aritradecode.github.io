@@ -1,0 +1,315 @@
+@media (max-width:917px) {
+    #first {
+        flex-wrap: wrap;
+        height: 95vh;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    #second {
+        text-align: center;
+        flex-wrap: wrap-reverse;
+        height: 98vh;
+        overflow: hidden;
+    }
+
+    #secondone {
+        flex-wrap: wrap;
+        height: 90vh;
+        text-align: center;
+        margin: auto;
+        overflow: hidden;
+    }
+
+    .black {
+        margin-left: revert-layer;
+        margin-top: 475px;
+        width: 260px;
+    }
+
+    #stranger {
+        margin-left: -121px;
+    }
+
+    #download {
+        margin-left: -74px;
+    }
+
+    #load {
+        margin-left: 83px;
+    }
+
+    #faq {
+        height: 121vh;
+        margin: auto;
+        text-align: center;
+    }
+
+    #lastpart {
+        text-align: center;
+    }
+
+    .footer {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 506px) {
+    nav {
+        max-width: 85vw;
+    }
+
+    #search {
+        margin-top: 87px;
+    }
+
+    #search span {
+        text-align: center;
+    }
+
+    #search>:nth-child(1) {
+        font-size: 1.99rem;
+        width: 85vw;
+    }
+
+    #search>:nth-child(3) {
+        font-size: 1.1rem;
+        width: 85vw;
+    }
+
+    #email {
+        flex-direction: column;
+    }
+
+    .main {
+        height: 90vh;
+    }
+
+    .main #box {
+        height: 90vh;
+    }
+
+    #email input {
+        width: 321px;
+    }
+
+    #second .para #spanone {
+        font-size: 1.7rem;
+    }
+
+    #second .para #spantwo {
+        font-size: 1.1rem;
+    }
+
+    #faq h1 {
+        font-size: 1.8rem;
+    }
+
+    #faqlist .list {
+        width: 70vw;
+        font-size: medium;
+    }
+
+    #lastpart {
+        margin: 115px auto;
+    }
+
+    .firstclass h1 {
+        font-size: 2rem;
+    }
+
+    .firstclass span {
+        font-size: 1.1rem;
+    }
+
+    .para #spanone {
+        font-size: 2rem;
+    }
+
+    .para #spantwo {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width:387px) {
+    .main nav img {
+        height: 35px;
+        width: 90px;
+    }
+
+    nav button {
+        margin-left: 0px;
+    }
+
+    .button {
+        width: 84px;
+        margin-top: 24px;
+        margin-left: 0px;
+    }
+
+    #btn1 {
+        width: 65px;
+    }
+
+    #btn2 {
+        width: 50px;
+    }
+
+    .footer {
+        gap: 12px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    #email input {
+        width: 240px;
+        margin-left: -26px;
+    }
+
+}
+
+@media screen and (max-width: 414px),
+screen and (max-height:896px) {
+    .main {
+        height: 60vh;
+    }
+
+    .main #box {
+        height: 60vh;
+    }
+
+    #first {
+        height: 55vh;
+        padding: 10px;
+    }
+
+    #second {
+        height: 68vh;
+    }
+
+    #secondone {
+        height: 60vh;
+    }
+
+    #faq {
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 430px),
+screen and (max-height:932px) {
+    .main {
+        height: 60vh;
+    }
+
+    .main #box {
+        height: 60vh;
+    }
+
+    #first {
+        height: 55vh;
+        padding: 10px;
+    }
+
+    #second {
+        height: 68vh;
+    }
+
+    #secondone {
+        height: 60vh;
+    }
+
+    #faq {
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 360px),
+screen and (max-height:740px) {
+    .main {
+        height: 70vh;
+    }
+
+    .main #box {
+        height: 70vh;
+    }
+
+    #first {
+        height: 70vh;
+    }
+
+    #second {
+        height: 80vh;
+    }
+
+    #secondone {
+        height: 70vh;
+    }
+
+    #faq {
+        height: 96vh;
+    }
+}
+
+/* @media screen and (max-width: 768px),
+screen and (max-height:1024px) {
+    .main {
+        height: 48vh;
+    }
+
+    .main #box {
+        height:48vh;
+    }
+
+    #first {
+        height: 54vh;
+        padding: 10px;
+    }
+
+    #second {
+        height: 58vh;
+    }
+    #second .para{
+        width: auto;
+    }
+
+    #secondone {
+        height: 50vh;
+        padding: 10px;
+    }
+
+    #faq {
+        height: 64vh;
+    }
+} */
+/* @media screen and (max-width: 1024px),
+screen and (max-height:1366px) {
+    .main {
+        height: 34vh;
+    }
+
+    .main #box {
+        height:34vh;
+    }
+
+    #first {
+        height: 28vh;
+        padding: 10px;
+    }
+
+    #second {
+        height: 28vh;
+    }
+    #second .para{
+        width: auto;
+    }
+
+    #secondone {
+        height: 28vh;
+        padding: 10px;
+    }
+
+    #faq {
+        height: auto;
+    }
+} */
